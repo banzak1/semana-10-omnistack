@@ -1,1 +1,1 @@
-<h2>DevRadar produzido na SemanaOmniStack da Rocketseat</h1>
+<h1>DevRadar produzido na SemanaOmniStack da Rocketseat</h1>
