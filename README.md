@@ -3,5 +3,5 @@
 <b>
 <p>No backend usamos NodeJS para armazenar os dados do dev, utilizando também a API do GitHub, para coletar informações do seu perfil.</p>
 <p>Na aplicação web usamos o ReactJS para receber as informações na API e mostrar os devs ja cadastrados.</p>
-<p>E no desenvolvimento mobile usamos React Native funto com o Expo para mostar no mapa os dev mais proximos, absorvendo a geolocalização coletado no cadastro web. (<i>Ainda em desenvolvimento</i)</p>
+<p>E no desenvolvimento mobile usamos React Native funto com o Expo para mostar no mapa os dev mais proximos, absorvendo a geolocalização coletado no cadastro web. (<i>Ainda em desenvolvimento)</i)</p>
 </b>
